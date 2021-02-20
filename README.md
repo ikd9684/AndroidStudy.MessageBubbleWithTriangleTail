@@ -8,5 +8,5 @@
 どっちがいいかは微妙。
 
 
-こういうの↓もあったので、これでPathData駆使するのが一番スマートなのかなぁ。
+こういうの↓もあったので、これでPathData駆使するのが一番スマートなのかなぁ。  
 https://stackoverflow.com/questions/7974847/android-drawable-speech-bubble
