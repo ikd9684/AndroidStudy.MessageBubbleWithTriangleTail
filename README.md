@@ -6,3 +6,7 @@
 <img src="https://user-images.githubusercontent.com/2688618/108601138-65a24780-73de-11eb-9c44-1b1708f0b698.PNG" width="400"/>
 
 どっちがいいかは微妙。
+
+
+こういうの↓もあったので、これでPathData駆使するのが一番スマートなのかなぁ。
+https://stackoverflow.com/questions/7974847/android-drawable-speech-bubble
